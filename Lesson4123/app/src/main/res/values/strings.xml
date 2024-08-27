@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lesson 4.12.1</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="text_btn_0">0</string>
+    <string name="text_btn_6">6</string>
+    <string name="text_btn_x">&#215;</string>
+    <string name="text_btn_2">2</string>
+    <string name="text_btn_9">9</string>
+    <string name="text_btn_3">3</string>
+    <string name="text_btn_plus">&#43;</string>
+    <string name="text_btn_ac">AC</string>
+    <string name="text_btn_5">5</string>
+    <string name="text_btn_percent">&#37;</string>
+    <string name="btn_negative">&#177;</string>
+    <string name="text_btn_8">8</string>
+    <string name="text_btn_minus">&#45;</string>
+    <string name="text_btn_7">7</string>
+    <string name="text_btn_dot">&#46;</string>
+    <string name="text_btn_4">4</string>
+    <string name="text_btn_div">&#247;</string>
+    <string name="text_btn_equal">&#61;</string>
+    <string name="text_btn_1">1</string>
+</resources>
